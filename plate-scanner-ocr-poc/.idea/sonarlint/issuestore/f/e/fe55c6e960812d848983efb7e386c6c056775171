@@ -1,0 +1,20 @@
+
+W
+java:S2184×"@Cast one of the operands of this integer division to a "double".(ºÌ‡±
+]
+java:S2142–	"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+w
+java:S1450’"`Remove the "mDummySurfaceView" field and declare it as a local variable in the relevant methods.(ã“Á†
+A
+java:S1181¹	"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ
+a	java:S112ì"FDefine and throw a dedicated exception instead of using a generic one.(÷ÿùıÿÿÿÿ
+U
+java:S1155¦">Use isEmpty() to check whether the collection is empty or not.(ÛÁÃœ
+\	java:S112ò"FDefine and throw a dedicated exception instead of using a generic one.(—÷îæ
+]
+java:S2142•"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+z
+java:S1450“"cRemove the "mDummySurfaceTexture" field and declare it as a local variable in the relevant methods.(À·¦¹
+a	java:S112ù"FDefine and throw a dedicated exception instead of using a generic one.(¤æÔûÿÿÿÿ
+c
+java:S2184‹"FCast one of the operands of this multiplication operation to a "long".(ø¥®A8­íÊ«.

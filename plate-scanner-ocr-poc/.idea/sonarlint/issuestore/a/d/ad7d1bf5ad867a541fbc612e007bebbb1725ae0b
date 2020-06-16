@@ -1,0 +1,13 @@
+
+S
+java:S1117›"<Rename "useFlash" which hides the field declared at line 70.(¡šî³
+‚
+java:S1845F"gRename field "useFlash" to prevent any misunderstanding/clash with field "UseFlash" defined on line 68.(¡÷§”úÿÿÿÿ
+y
+java:S3252o"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(Âğ†Éüÿÿÿÿ8ºš‘Ê«.
+t	java:S115C"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(éÎÊıûÿÿÿÿ
+‚
+java:S1130µ"fRemove the declaration of thrown exception 'java.lang.SecurityException' which is a runtime exception.(äª¤æıÿÿÿÿ
+=
+java:S1172¤"&Remove these unused method parameters.(ı§„Ô
+o	java:S115D"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‰Ö Õ

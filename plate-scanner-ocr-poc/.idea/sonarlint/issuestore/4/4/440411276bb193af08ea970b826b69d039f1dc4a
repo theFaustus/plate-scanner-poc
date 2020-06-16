@@ -1,0 +1,10 @@
+
+B
+java:S30109"'Remove this assignment of "sTextPaint".(ìçóøÿÿÿÿ
+f	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´à±‚
+Q
+java:S3740,"/Provide the parametrized type for this generic.(°Òäüÿÿÿÿ8Ê³‹Ë«.
+B
+java:S30102"'Remove this assignment of "sRectPaint".(ÜÓÓ÷ùÿÿÿÿ
+k
+java:S1104("PMake text a static final constant or non-public and provide accessors if needed.(øò¨ıÿÿÿÿ

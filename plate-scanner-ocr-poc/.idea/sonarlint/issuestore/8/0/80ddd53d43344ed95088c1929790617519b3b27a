@@ -1,0 +1,20 @@
+
+l
+java:S1128"JRemove this unused import 'retrofit2.converter.gson.GsonConverterFactory'.(ì§¤¹ÿÿÿÿÿ8”õÓà«.
+N
+java:S1128	",Remove this unused import 'org.jsoup.Jsoup'.(Ù±šªûÿÿÿÿ8òÄË«.
+‰
+java:S1130."lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(İùÖ×8ÙÍÕà«.
+V
+java:S1128"4Remove this unused import 'org.jsoup.nodes.Element'.(ıƒ‘öşÿÿÿÿ8òÄË«.
+E
+java:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ˆÜˆà«.
+r
+java:S1128"PRemove this unused import 'retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory'.(…×ˆèùÿÿÿÿ8²¾ß«.
+S
+java:S1128"6Remove this unused import 'org.jsoup.select.Elements'.(ëÂè8òÄË«.
+T
+java:S1128"7Remove this unused import 'com.google.gson.JsonObject'.(µÊ´½8Ì’Öà«.
+R
+java:S1128
+"5Remove this unused import 'org.jsoup.nodes.Document'.(ô¯É8òÄË«.
